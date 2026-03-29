@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+
+	<NationalPark Rating="4.9">
+		<Name>Grand Canyon</Name>
+		<Name>The Big Hole</Name>
+		<Phone>928-638-7496</Phone>
+		<Address NearestAirport="FlagStaff">
+			<Number>8</Number>
+			<Street>S Entrance Road</Street>
+			<City>Grand Canyon</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.7">
+		<Name>Death Valley</Name>
+		<Address NearestAirport="DTH">
+			<Number>328</Number>
+			<Street>Greenland Blvd</Street>
+			<City>Death Valley</City>
+			<State>CA</State>
+			<Zip>92328</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark>
+		<Name>Mount Rainier</Name>
+		<Phone>360-569-2211</Phone>
+		<Address>
+			<Number>55210</Number>
+			<Street>238th Avenue</Street>
+			<City>East Ashford</City>
+			<State>WA</State>
+			<Zip>98304</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8">
+		<Name>Olympic</Name>
+		<Phone>360-565-3130</Phone>
+		<Address NearestAirport="SEA">
+			<Number>3002</Number>
+			<Street>Mount Angeles Road</Street>
+			<City>Port Angeles</City>
+			<State>WA</State>
+			<Zip>98362</Zip>
+		</NationalPark>
+
+</NationalPark>
